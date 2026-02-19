@@ -1,6 +1,6 @@
 # PaymentSetu Gateway for WooCommerce
 
-[![PaymentSetu](https://img.shields.io/badge/PaymentSetu-Payment%20Gateway-4CAF50?style=for-the-badge)](https://paymentsetu.com)
+[![PaymentSetu](https://img.shields.io/badge/PaymentSetu-Payment%20Verification-4CAF50?style=for-the-badge)](https://paymentsetu.com)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-Compatible-blue?style=for-the-badge)](https://woocommerce.com)
 [![Version](https://img.shields.io/badge/version-1.0-orange?style=for-the-badge)](https://github.com)
 
